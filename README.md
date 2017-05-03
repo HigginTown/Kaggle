@@ -1,4 +1,4 @@
-#Kaggle Projects
+# Kaggle Projects
 
 This folder contains a tutorial that I wrote for an data-science focused educational website and service.
 Will be published soon in May. 
