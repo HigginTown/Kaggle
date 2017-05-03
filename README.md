@@ -8,5 +8,5 @@ I demonstrating a typical workflow, from acquiring the data to engineering featu
 
 Hope you enjoy!
 
-If you find this helpful, head over to [DataQuest](dataquest.io) for more tutorials and learning material.
+If you find this helpful, head over to [DataQuest](https://www.dataquest.io) for more tutorials and learning material.
 
